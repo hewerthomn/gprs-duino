@@ -83,7 +83,7 @@ void loop()
   }
   
   postData();
-  // gsmRead();
+  gsmRead();
   getGPS();
 }
 
